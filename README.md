@@ -1,7 +1,4 @@
 # Certifications
-
- <h2> - Comptia Security + 601</h2>
- https://www.credly.com/badges/5d43a104-d5f9-4c30-961f-204febdd76ed
  
 <h1><br/><a href="https://github.com/youngsb24"></a> <a href="https://www.credly.com/badges/5d43a104-d5f9-4c30-961f-204febdd76ed">Comptia Security+ 601</a> 
 
